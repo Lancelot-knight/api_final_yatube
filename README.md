@@ -3,7 +3,7 @@
 Клонируйте репозиторий:
 
 ```python
-git clone https://github.com/rodionbogoveev/api_final_yatube
+git clone https://github.com/Lancelot-knight/api_final_yatube.git
 ```
 Cоздайте и активируйте виртуальное окружение:
 
